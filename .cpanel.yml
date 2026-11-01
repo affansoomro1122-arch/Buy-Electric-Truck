@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export SITE3=/home/w5yznj9jl555/public_html/buyelectrictruck.com.au
+    - /bin/cp -R * $SITE3
